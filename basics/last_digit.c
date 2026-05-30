@@ -2,7 +2,7 @@
 
 int main()
 {
-    // Pprogram to print last digit.
+    // Program to print last digit.
     int num, lastDigit;
 
     printf("Enter number : ");
