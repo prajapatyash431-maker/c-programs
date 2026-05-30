@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+int main() 
 {
     // Program to calculate yearly salary from mounthly salary.
     int mounthly_salary;
